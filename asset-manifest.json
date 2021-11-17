@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CloudflareFrontEnd/static/css/main.5174f61b.chunk.css",
+    "main.js": "/CloudflareFrontEnd/static/js/main.5927e5db.chunk.js",
+    "main.js.map": "/CloudflareFrontEnd/static/js/main.5927e5db.chunk.js.map",
+    "runtime-main.js": "/CloudflareFrontEnd/static/js/runtime-main.ba13ad18.js",
+    "runtime-main.js.map": "/CloudflareFrontEnd/static/js/runtime-main.ba13ad18.js.map",
+    "static/css/2.383c0125.chunk.css": "/CloudflareFrontEnd/static/css/2.383c0125.chunk.css",
+    "static/js/2.f057acf2.chunk.js": "/CloudflareFrontEnd/static/js/2.f057acf2.chunk.js",
+    "static/js/2.f057acf2.chunk.js.map": "/CloudflareFrontEnd/static/js/2.f057acf2.chunk.js.map",
+    "static/js/3.b8f8816d.chunk.js": "/CloudflareFrontEnd/static/js/3.b8f8816d.chunk.js",
+    "static/js/3.b8f8816d.chunk.js.map": "/CloudflareFrontEnd/static/js/3.b8f8816d.chunk.js.map",
+    "index.html": "/CloudflareFrontEnd/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/CloudflareFrontEnd/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.5174f61b.chunk.css.map": "/CloudflareFrontEnd/static/css/main.5174f61b.chunk.css.map",
+    "static/js/2.f057acf2.chunk.js.LICENSE.txt": "/CloudflareFrontEnd/static/js/2.f057acf2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba13ad18.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.f057acf2.chunk.js",
+    "static/css/main.5174f61b.chunk.css",
+    "static/js/main.5927e5db.chunk.js"
+  ]
+}
